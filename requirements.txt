@@ -1,0 +1,5 @@
+pandas
+jupyterlab
+squarify==0.4.3
+matplotlib
+
